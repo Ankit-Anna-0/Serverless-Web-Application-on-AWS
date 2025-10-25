@@ -109,9 +109,9 @@ This project follows modern **serverless design principles**, ensuring zero serv
 ##  Author
 
 **Ankit Anna**  
-*Cloud & Serverless Developer*  
+ 
  [ankitanna03@gmail.com](mailto:ankitanna03@gmail.com)  
- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-anna/))
+ [LinkedIn](https://www.linkedin.com/in/ankit-anna/)
 
 ---
 
